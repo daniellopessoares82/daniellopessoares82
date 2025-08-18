@@ -10,13 +10,6 @@
             src="https://custom-icon-badges.demolab.com/github/stars/daniellopessoares82?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
         />
     </a>
-    <a href="https://github.com/daniellopessoares82?tab=repositories&sort=stargazers">
-        <img 
-            alt="Total de estrelas" 
-            title="Total de estrelas GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/stars/daniellopessoares82?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
-        />
-    </a>
     <a href="https://github.com/daniellopessoares82?tab=followers">
         <img 
             alt="Seguidores" 
@@ -28,7 +21,7 @@
 
 ---
 
-### 🤖 Linguagens e Tecnologias
+### 🤖 Skills
 
 <img 
     align="left" 
